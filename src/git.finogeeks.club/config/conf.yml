@@ -1,0 +1,9 @@
+url: http://127.0.0.1:3000
+http:
+  ip: 123.0.0.08
+  port: 8080
+mongo:
+  domain: localhost
+  port: 27017
+  auth: ""
+  db: "echo"
