@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-fsnotify-fsnotify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-globalsign-mgo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-google-uuid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-hashicorp-hcl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-labstack-echo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-labstack-gommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-magiconair-properties" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-mattn-go--colorable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-mattn-go--isatty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-mitchellh-mapstructure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-pelletier-go--toml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-sarulabs-di" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-spf13-afero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-spf13-cast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-spf13-jwalterweatherman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-spf13-pflag" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-spf13-viper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-valyala-bytebufferpool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---github.com-valyala-fasttemplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---go.googlesource.com-crypto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---go.googlesource.com-sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---go.googlesource.com-text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---gopkg.in-mgo.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/dep/sources/https---gopkg.in-yaml.v2" vcs="Git" />
+  </component>
+</project>

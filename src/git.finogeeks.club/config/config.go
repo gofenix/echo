@@ -8,7 +8,8 @@ import (
 )
 
 func InitConfig() {
-	viper.AddConfigPath("config")
+
+	viper.AddConfigPath("$GOPATH/src/git.finogeeks.club/config")
 	viper.SetConfigName("conf")
 	viper.SetConfigType("yaml")
 	viper.AutomaticEnv()

@@ -19,7 +19,7 @@ type (
 
 var dbses Session
 
-func init() {
+func Init() {
 
 	if viper.GetString("mongo.domain") != "" {
 		InitMongo()
@@ -31,7 +31,10 @@ func InitMongo() (err error) {
 	port := viper.GetString("mongo.port")
 	db := viper.GetString("mongo.db")
 	auth := viper.GetString("mongo.auth")
-	url := "mongodb://" + auth + "@" + domain + port + "/" + db
+	url := "mongodb://" + domain + ":" + port + "/" + db
+	if "" != auth {
+		url = "mongodb://" + auth + "@" + domain + ":" + port + "/" + db
+	}
 	fmt.Println("url: ", url)
 	dbses.Session, err = mgo.Dial(url)
 	if err != nil {
