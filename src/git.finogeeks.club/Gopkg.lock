@@ -76,12 +76,6 @@
   version = "v1.2.0"
 
 [[projects]]
-  name = "github.com/sarulabs/di"
-  packages = ["."]
-  revision = "5754ca61d4cfc38cca8008fc56ab8c4600d47da6"
-  version = "v2.0.0"
-
-[[projects]]
   name = "github.com/spf13/afero"
   packages = [
     ".",
@@ -175,6 +169,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "7cbc587f820d83baf241cb9f3f39a86ff3b2e45ea182cf8d179a95972f479ffb"
+  inputs-digest = "e1025dd19bc870ee2390fe6308ca0c2f9cba7b4985876d88326e5507475c4a39"
   solver-name = "gps-cdcl"
   solver-version = 1
